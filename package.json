@@ -1,0 +1,22 @@
+{
+  "name": "ethdai_price_oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peppersec/ethdai_price_oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peppersec/ethdai_price_oracle/issues"
+  },
+  "homepage": "https://github.com/peppersec/ethdai_price_oracle#readme",
+  "dependencies": {
+    "truffle": "^5.0.37"
+  }
+}
