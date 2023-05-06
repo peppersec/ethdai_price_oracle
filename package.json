@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/peppersec/ethdai_price_oracle#readme",
   "dependencies": {
-    "truffle": "^5.0.37"
+    "truffle": "^5.8.4"
   }
 }
